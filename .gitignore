@@ -1,0 +1,25 @@
+# Secrets — never commit these
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Logs & generated data
+logs/
+
+# PDF / personal files
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.iml
